@@ -519,3 +519,4 @@
 - [@hsnhuman](https://github.com/hsnhuman)
 - [@Datadryft](https://github.com/Datadryft)
 - [@Santhosh](https://github.com/santhoshkumar-27)
+- [@TerroX95](https://github.com/TerroX95)
